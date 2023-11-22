@@ -1,0 +1,3 @@
+Rohit,25,Physics
+Harish,22,Computer Science
+Samarth,24,Mathematics
